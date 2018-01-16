@@ -23,5 +23,5 @@
     <!-- CellBroadcast channel 60 enabled or not,default value is true -->
     <bool name="def_channel_60_enabled">false</bool>
     <!--To stop alert after the specified duration -->
-    <bool name="config_regional_stop_alert_on_duration">false</bool>
+    <add-resource type="bool" name="config_regional_stop_alert_on_duration">false</add-resource>
 </resources>
